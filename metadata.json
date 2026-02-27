@@ -1,0 +1,5 @@
+{
+  "name": "Memory Palace",
+  "description": "A cross-agent visual memory system for storing and viewing agent session data.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #0d0d0d;
+  --bg-card: #111111;
+  --bg-elevated: #161616;
+  --border: #222222;
+  --text-primary: #f0ede6;
+  --text-secondary: #888880;
+  --gold: #c9a84c;
+  --gold-dim: #7a6430;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+}
